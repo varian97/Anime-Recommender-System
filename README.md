@@ -1,2 +1,2 @@
-# Anime-Recomender-System
+# Anime-Recommender-System
 Using anime data to build various type of recommender systems.
